@@ -14,4 +14,4 @@ And some documentation
 
 # Seminar 3
 
-Gazdiev Ruslan
+Gazdiev Ruslan - GR1240
