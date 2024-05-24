@@ -11,3 +11,7 @@ And some documentation
 # part 3
 
 #### part 4
+
+# Seminar 3
+
+Gazdiev Ruslan
